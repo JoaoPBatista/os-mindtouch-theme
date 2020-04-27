@@ -419,14 +419,14 @@ label.mt-feedback-consent-label {
     .mt-toc-container-ult {
         right: -17%;
         position: absolute !important;
-        top: 320px;
+        top: 270px;
     }
 
     .mt-toc-container-ult-fixed {
         margin: 15px 0px 15px 0px !important;
-        right: 4%;
+        right: 6.4%;
         position: fixed !important;
-        top: 320px;
+        top: 340px;
     }
 
     .sidebar-ult {
@@ -472,8 +472,8 @@ label.mt-feedback-consent-label {
 
     .elm-content-footer-ult-fixed {
         position: fixed !important;
-        top: 0;
-        right: 6%;
+        top: 70px;
+        right: 6.4%;
         margin-top: unset !important;
     }
 
