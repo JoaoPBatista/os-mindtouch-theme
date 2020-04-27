@@ -536,6 +536,10 @@ label.mt-feedback-consent-label {
     }
 }
 
+.elm-article-feedback-ult {
+    margin-top: -14px !important;
+}
+
 /* BEST PRACTICES*/
 .columbia-breadcrumb-home-documentation-bestpractices nav.elm-header-global-nav.elm-nav {
     display: none;
@@ -583,6 +587,5 @@ label.mt-feedback-consent-label {
 .elm-social-share {
     display: none !important;
 }
-
 
 mt-leave-feedback mt-feedback-rating-item
